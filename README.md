@@ -30,7 +30,10 @@ A beautiful and interactive 3D solar system simulation built with Three.js. This
 2. Open `index.html` in a modern web browser
 3. No build process or dependencies required!
 
-## Controls
+## Screen Rec
+![Screenshot (1276)](https://github.com/user-attachments/assets/fb1faa50-645c-4a2f-beaa-22ece18f7d68)
+![Screenshot (1275)](https://github.com/user-attachments/assets/08a1f5d0-2fb1-4c43-8129-79a818409e61)
+
 
 ### Desktop
 
