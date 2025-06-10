@@ -1,5 +1,8 @@
 # Solar System 3D Simulation
 
+## Live Link : https://frontend-assignment-tejas-more.vercel.app/
+## GitHub Repo : https://github.com/TejasMore477/Frontend-Assignment-Tejas-More
+
 A beautiful and interactive 3D solar system simulation built with Three.js. This project demonstrates the use of 3D graphics, animations, and user interactions in a web browser.
 
 ## Features
@@ -72,6 +75,12 @@ The simulation is optimized for performance with:
 - Responsive design considerations
 - Hardware acceleration support
 - Mobile-optimized controls and UI
+
+## Developed By:
+Tejas More
+tejasmore660@gmail.com
+Github : https://github.com/TejasMore477
+LinkedIn : www.linkedin.com/in/tejas-more-profile
 
 ## License
 
